@@ -15,7 +15,7 @@
   },
   "devDependencies": {
   "autoprefixer": "^10.4.19",
-  "typescript": "^5",
+  "typescript": "^5"
   // ... other dependencies
 }
     "typescript": "^5",
